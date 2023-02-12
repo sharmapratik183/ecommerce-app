@@ -1,5 +1,8 @@
 # Hosted Url
+
 # https://sharmapratik183.github.io/ecommerce-app/
+
+click on Home after opening the url
 
 # Getting Started with Create React App
 
